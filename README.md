@@ -2,13 +2,13 @@
 
 A Python prototype that takes a list of parcels and delivery points, then produces a **prioritized parcel list**, an **optimal packing plan** and an **ordered delivery route**. It combines sorting, dynamic programming, graph algorithms and an approximation technique into one integrated application.
 
-**Author:** Akanksha Kumari
-**Roll nop.** 2501010076
-**University:** K. R. Mangalam University
-**Course:** Design & Analysis of Algorithms (ETCCDA302)
-**Faculty:** Ankita Gupta
-**Assignment:** Capstone Assignment: Mini-Courier Planner
-**GitHub:** https://github.com/akanksha-076
+- **Author:** Akanksha Kumari
+- **Roll No.:** 2501010076
+- **University:** K. R. Mangalam University, Gurugram, Haryana
+- **Course:** Design & Analysis of Algorithms (ETCCDA302)
+- **Faculty:** Ankita Gupta
+- **Assignment:** Capstone Assignment: Mini-Courier Planner
+- **GitHub:** https://github.com/akanksha-076
 ---
 
 ## 1. Problem Statement
