@@ -7,7 +7,7 @@ A Python prototype that takes a list of parcels and delivery points, then produc
 - **University:** K. R. Mangalam University, Gurugram, Haryana
 - **Course:** Design & Analysis of Algorithms (ETCCDA302)
 - **Faculty:** Ankita Gupta
-- **Assignment** (Capstone Assignment): Mini-Courier Planner
+- **Assignment** (Capstone): Mini-Courier Planner
 - **GitHub:** https://github.com/akanksha-076
 ---
 
